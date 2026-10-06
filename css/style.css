@@ -1,0 +1,15 @@
+
+.gap {
+    display: flex;
+    flex-direction: column;
+    margin: auto;
+   width: 70%;
+   margin-top: 5%;
+   gap: 20px;
+}
+
+.textos {
+    display: flex;
+    flex-direction: column;
+    margin-top: 4%;
+}
